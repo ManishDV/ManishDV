@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Manish Visave, from last 1.5 years working as Associate Engineer in Acquia. I work primarily on Java, Snowflake, SQL and Python. I have experties on git, docker, JIRA, Hadoop, Spark and AWS.<br>Currently I'm Learning about Spring and Hibernate to expand my experties. <br>I'm interested in backend and data engineering roles and love to hear about any collaboration opportunities
+Hey there, I'm Manish Visave, Data Engineer with 4.5+ years of experience. I work primarily on Java, Snowflake, SQL and Python. I have experties on git, docker, JIRA, Hadoop, Spark and AWS.<br>Currently I'm Learning about Spring and Hibernate to expand my experties. <br>I'm interested in backend and data engineering roles and love to hear about any collaboration opportunities
 
 
 ## 🌐 Socials:
